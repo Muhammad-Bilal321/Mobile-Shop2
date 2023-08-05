@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .filter-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  select, input, button {
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  #mobileList {
+    margin-top: 20px;
+  }
+  
+  /* Add any additional styling as needed */
+  
